@@ -18,7 +18,7 @@
     "@web3-react/magic-connector": "latest",
     "@web3-react/network-connector": "latest",
     "@web3-react/portis-connector": "latest",
-    "@web3-react/torus-connector": "latest",
+    "@web3-react/torus-connector": "6.2.9",
     "@web3-react/trezor-connector": "latest",
     "@web3-react/walletconnect-connector": "latest",
     "@web3-react/walletlink-connector": "latest",
